@@ -12,5 +12,4 @@ run:
 
 all:
 	make gomod
-	make mock
 	make run
