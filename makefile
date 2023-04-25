@@ -11,6 +11,6 @@ run:
 	./insomnia_test
 
 all:
-	make mock
 	make gomod
+	make mock
 	make run
